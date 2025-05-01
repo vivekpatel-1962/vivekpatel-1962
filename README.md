@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/authwall?trk=bf&trkinfo=aqeghpsqyzmikwaaazaj-sbq8hxhzh1uvu8atd7piuc1_fn1rteorfdwivwdvmuhbksft_aezxyjezp8hnxnvl0o9bwpd8nn3p1p25t46baca7bq0cal2a7qxbdj-lnqutb0abm=&original_referer=&sessionredirect=https%3a%2f%2fwww.linkedin.com%2fin%2fvivek-patel-a292912ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/authwall?trk=bf&trkinfo=aqeghpsqyzmikwaaazaj-sbq8hxhzh1uvu8atd7piuc1_fn1rteorfdwivwdvmuhbksft_aezxyjezp8hnxnvl0o9bwpd8nn3p1p25t46baca7bq0cal2a7qxbdj-lnqutb0abm=&original_referer=&sessionredirect=https%3a%2f%2fwww.linkedin.com%2fin%2fvivek-patel-a292912ab" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vivek-patel-a292912ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/authwall?trk=bf&trkinfo=aqeghpsqyzmikwaaazaj-sbq8hxhzh1uvu8atd7piuc1_fn1rteorfdwivwdvmuhbksft_aezxyjezp8hnxnvl0o9bwpd8nn3p1p25t46baca7bq0cal2a7qxbdj-lnqutb0abm=&original_referer=&sessionredirect=https%3a%2f%2fwww.linkedin.com%2fin%2fvivek-patel-a292912ab" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
