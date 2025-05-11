@@ -84,9 +84,18 @@
   </a>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deeppanchal2108/Deeppanchal2108/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deeppanchal2108/Deeppanchal2108/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Deeppanchal2108/Deeppanchal2108/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekpatel-1962&show_icons=true&locale=en&layout=compact" alt="vivekpatel-1962" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekpatel-1962&show_icons=true&locale=en" alt="vivekpatel-1962" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekpatel-1962&" alt="vivekpatel-1962" /></p>
+
+
