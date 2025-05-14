@@ -6,6 +6,9 @@
 </p>
 
 ---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vivekpatel-1962&style=flat&&color=0078D4&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 - 🎯 Currently sharpening my skills in **Machine Learning & Full Stack Development**
 - 📬 Reach me at **vivekpatel2691@gmail.com**
@@ -64,7 +67,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekpatel-1962&theme=github_dark&hide_border=false&border_radius=10" alt="GitHub Streak" width="600"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekpatel-1962&theme=github_dark&hide_border=false&border_radius=10" alt="GitHub Streak" width="500"/>
 </div>
 
 
