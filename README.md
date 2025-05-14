@@ -78,13 +78,13 @@
 
 ---
 
-<h2>🐍 GitHub Contribution Snake</h2>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deeppanchal2108/Deeppanchal2108/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deeppanchal2108/Deeppanchal2108/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Deeppanchal2108/Deeppanchal2108/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vivekpatel-1962/vivekpatel-1962/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vivekpatel-1962/vivekpatel-1962/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vivekpatel-1962/vivekpatel-1962/output/github-snake.svg" />
 </picture>
-
 ---
 
+
+<br/>
 ⭐️ Feel free to star repositories you like or follow me to stay connected!
