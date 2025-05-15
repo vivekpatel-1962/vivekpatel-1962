@@ -13,7 +13,7 @@
 - 🎯 Currently sharpening my skills in **Machine Learning & Full Stack Development**
 - 📬 Reach me at **vivekpatel2691@gmail.com**
 
-<h3 align="left">🌐 Connect with me:</h3>
+<h3 align="left">🌐 Connect with me: </h3>
 <p align="left">
   <a href="https://linkedin.com/in/vivek-patel-a292912ab" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
