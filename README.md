@@ -33,6 +33,7 @@
 
 <h3> 🎨 Frontend:</h3>
 <p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
@@ -43,6 +44,7 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="25"/>
 </p>
 
 <h3> 🗃️ Databases:</h3>
@@ -55,10 +57,11 @@
 <h3> ⚙️ Tools & Libraries:</h3>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=seaborn&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white" height="25"/>
 </p>
 
 <h3> 🤖 Machine Learning / AI:</h3>
@@ -68,7 +71,6 @@
 </p>
 
 ---
-
 
 <h2 align="center">📈 GitHub Stats</h2>
 
@@ -84,12 +86,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekpatel-1962&theme=github_dark&hide_border=false&border_radius=10" alt="GitHub Streak" width="500"/>
 </div>
 
-
-
-
-
-
-
 ---
 
 <picture>
@@ -98,7 +94,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/vivekpatel-1962/vivekpatel-1962/output/github-snake.svg" />
 </picture>
 ---
-
 
 <br/>
 ⭐️ Feel free to star repositories you like or follow me to stay connected!
