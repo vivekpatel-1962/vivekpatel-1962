@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI/ML Intern @ OPTERA | Full Stack Developer | GenAI & LLM Engineering</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&color=F7B32B&lines=Engineering+LLM+pipelines+with+Gemini...;Building+full-stack+apps+with+React+%26+FastAPI...;Exploring+Generative+AI+%26+Computer+Vision..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=900&color=F7B32B&lines=Debugging+prompts+like+they%27re+production+code+%28they+are%29...;Building+hallucination+guardrails%2C+one+grounded+sentence+at+a+time...;AI%2FML+Intern+turning+research+into+production+pipelines..." alt="Typing SVG" />
 </p>
 
 ---
