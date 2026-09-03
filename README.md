@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#00bfff;">Vivek Patel</span></h1>
-<h3 align="center">🚀 AI/ML Intern @ OPTERA | Full Stack Developer | GenAI & LLM Engineering</h3>
+<h3 align="center">🚀 AI/ML Intern | Full Stack Developer | GenAI & LLM Engineering</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=900&color=F7B32B&lines=Debugging+prompts+like+they%27re+production+code+%28they+are%29...;Building+hallucination+guardrails%2C+one+grounded+sentence+at+a+time...;AI%2FML+Intern+turning+research+into+production+pipelines..." alt="Typing SVG" />
